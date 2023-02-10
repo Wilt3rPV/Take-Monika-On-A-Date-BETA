@@ -9,6 +9,7 @@ label beach:
     play music "Submods/DateMonikaSubmod/music/ddlcjazzimproved.ogg" #Temporary music lol
     hide black
     scene beach
+    show dev_screen onlayer front #For aesthetic lol
     $ bench = True
     pause 0.75
     $ is_sitting = False
