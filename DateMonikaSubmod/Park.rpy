@@ -12,7 +12,8 @@ label park:
 #        play music "Submods/DateMonikaSubmod/music/jingle-bells-jazz.mp3"
     play music "Submods/DateMonikaSubmod/music/Morning-Ambience.mp3"
     hide black
-    scene beach
+    scene park
+    show dev_screen onlayer front #For aesthetic lol
     $ bench = True
     pause 0.75
     $ is_sitting = False
