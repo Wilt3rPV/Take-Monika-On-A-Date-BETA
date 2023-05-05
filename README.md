@@ -1,9 +1,11 @@
 # Take Monika On A Date BETA BUILD
 
+## _Thank You_
+
 ## Disclaimer:
 This submod is still under development and it will have more features and more dates soon.
 
-![thumbnail 45](https://user-images.githubusercontent.com/112249447/209358591-650cf9ad-a39f-4868-b539-e1d0e42233af.png)
+![thankyou](https://user-images.githubusercontent.com/112249447/236496694-5d642cbd-7859-4dbd-a390-2500f2581ca1.png)
 This submod adds a button to take Monika on a date!
 
 ## Features:
